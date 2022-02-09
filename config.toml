@@ -1,4 +1,4 @@
-baseURL = "https://recipesbeauty.netlify.app/"
+baseURL = "https://recipesbeauty.web.app/"
 languageCode = "en-us"
 title = "Recipes Beauty"
 theme = "z"
@@ -57,7 +57,7 @@ theme = "z"
 
 [author]
     name = "Abigail"
-    homepage = "https://recipesbeauty.netlify.app/"
+    homepage = "https://recipesbeauty.web.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
