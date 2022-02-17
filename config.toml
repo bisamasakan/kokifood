@@ -1,6 +1,6 @@
-baseURL = "https://recipessuper.web.app/"
+baseURL = "https://kokifood.web.app/"
 languageCode = "en-us"
-title = "Recipes Super"
+title = "Koki Food"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "Place to find your favorite reipes"
   topdescription = "Place to find your favorite reipes"
-  toptitle = "Recipes Super"
+  toptitle = "Koki Food"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -57,7 +57,7 @@ theme = "z"
 
 [author]
     name = "Abigail"
-    homepage = "https://recipessuper.web.app/"
+    homepage = "https://kokifood.web.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 

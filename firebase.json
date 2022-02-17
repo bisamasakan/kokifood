@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "recipessuper",
+    "site": "kokifood",
     "public": "public",
     "ignore": [
       "firebase.json",
