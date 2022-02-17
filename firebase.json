@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "recipesbeauty",
+    "site": "recipessuper",
     "public": "public",
     "ignore": [
       "firebase.json",

@@ -1,6 +1,6 @@
-baseURL = "https://recipesbeauty.web.app/"
+baseURL = "https://recipessuper.web.app/"
 languageCode = "en-us"
-title = "Recipes Beauty"
+title = "Recipes Super"
 theme = "z"
 
 [taxonomies]
@@ -13,7 +13,7 @@ theme = "z"
 [params]
   description = "Place to find your favorite reipes"
   topdescription = "Place to find your favorite reipes"
-  toptitle = "Recipes Beauty"
+  toptitle = "Recipes Super"
   contentBackgroundColor = "#fff"
   contentLinkColor = "#007bff"
   contentLinkHoverColor = "#0056b3"
@@ -57,7 +57,7 @@ theme = "z"
 
 [author]
     name = "Abigail"
-    homepage = "https://recipesbeauty.web.app/"
+    homepage = "https://recipessuper.web.app/"
     bio = "cooking lover"
     image = "https://i.imgur.com/qNQv8nK.jpg"
 
